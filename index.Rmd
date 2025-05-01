@@ -1,6 +1,6 @@
 ---
-title: "A Mini Bookdown"
-author: "Your Name"
+title: "Introduction to RDM"
+author: "Louise Gillis"
 site: bookdown::bookdown_site
 documentclass: book
 classoption: openany
@@ -8,4 +8,4 @@ classoption: openany
 
 # Create your open textbook
 
-Hello, world!!!
+Introduction to RDM
