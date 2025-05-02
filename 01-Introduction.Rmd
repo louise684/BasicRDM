@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 
 What is **research data**? Research data are measurements, recordings, records, or observations about the world collected by researchers with minimal contextual interpretation. They can show up in just about any format. Numbers, notes, images, films, designs, algorithms, and diagrams can all be research data. The takeaway? Research data isn't the exclusive purview of bench scientists - anyone who's engaged in the research process is a collector of, and manager of, research data. 
 
