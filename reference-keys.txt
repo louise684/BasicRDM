@@ -2,3 +2,4 @@ basic-rdm
 introduction
 data-management-planning
 data-security
+data-organization
